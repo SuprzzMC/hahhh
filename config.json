@@ -5,5 +5,5 @@
 	"ip":"VictSMPS2.aternos.me",
 	"port": "33867",
 	"name": "BOT",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
